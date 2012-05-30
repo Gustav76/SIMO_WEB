@@ -1,4 +1,1 @@
-SIMO_WEB
-========
-
-Simple, Integrated, Modular and Object Oriented Identity Management
+SIMO IM is a Simple, Integrated, Modular and Object Oriented Identity Management system
