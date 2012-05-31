@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\IdentidadController.cs" />
     <Compile Include="Controllers\SistemaObjetivoController.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Global.asax.cs">
@@ -77,6 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Views\Identidad\Index.aspx" />
     <Content Include="Views\SistemaObjetivo\Index.aspx" />
     <Content Include="Views\Usuario\Index.aspx" />
     <Content Include="Web.config" />
